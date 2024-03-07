@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.0.1",
+    "electron-reload": "^2.0.0-alpha.1",
+    "gpu": "^1.0.0",
+    "systeminformation": "^5.22.0"
+  }
+}
